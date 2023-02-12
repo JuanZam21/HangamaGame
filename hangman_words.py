@@ -1,3 +1,4 @@
+#This is the list of the word to guess
 word_list = [
 'abruptly', 
 'absurd', 
