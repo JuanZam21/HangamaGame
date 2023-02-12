@@ -1,3 +1,4 @@
+#This is the images of the lose game
 stages = ['''
   +---+
   |   |
@@ -54,7 +55,7 @@ stages = ['''
       |
 =========
 ''']
-
+#This is the oficial logo 
 logo = ''' 
  _                                             
 | |                                            
