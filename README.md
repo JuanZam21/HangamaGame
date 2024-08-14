@@ -1,4 +1,3 @@
-
 # Hangman Game
 
 This is a Python implementation of the classic Hangman game. The objective of the game is to guess the secret word by suggesting letters within a certain number of attempts.
@@ -72,7 +71,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
    git push origin feature/YourFeature
    ```
 5. **Open a pull request**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
